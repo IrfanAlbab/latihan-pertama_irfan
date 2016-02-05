@@ -1,0 +1,729 @@
+LDG,terminal landungsari, -7.924974, 112.597958
+LDG,Jalan Tlogomas No.83, -7.924129, 112.598929
+LDG,Jalan Tlogomas No.55, -7.924765, 112.599871
+LDG,Jalan Tlogomas No.107, -7.925254, 112.600418
+LDG,Jalan Tlogomas No.1a, -7.926763, 112.602070
+LDG,Jalan Tlogomas No.3, -7.928049, 112.602886
+LDG,Jalan Tlogomas No.8, -7.928718, 112.602974
+LDG,Jalan Tlogomas No.36, -7.929496, 112.602915
+LDG,Jalan Tlogomas No.48 A, -7.930105, 112.602829
+LDG,Jalan Tlogomas No.49, -7.930764, 112.602744
+LDG,Jalan Tlogomas No.50, -7.930989, 112.602717
+LDG,Jalan Tlogomas No.44, -7.931481, 112.602631
+LDG,Jalan Tlogomas No.28, -7.932201, 112.602760
+LDG,Jalan Tlogomas No.27, -7.932809, 112.603143
+LDG,Jalan Tlogomas No.11, -7.933255, 112.603452
+LDG,Jalan Tlogomas No.6, -7.934693, 112.604433
+LDG,Jalan Tlogomas No.19, -7.935521, 112.604981
+LDG,Jalan M.T. Haryono, -7.936086, 112.605368
+LDG,Jalan M.T. Haryono No.204, -7.936300, 112.605530
+LDG,Jalan M.T. Haryono No.193, -7.936587, 112.605746
+LDG,Jalan M.T. Haryono No.187, -7.936836, 112.605919
+LDG,Jalan M.T. Haryono No.193, -7.938348, 112.606943
+LDG,Jalan M.T. Haryono No.171, -7.938680, 112.607181
+LDG,Jalan M.T. Haryono No.121, -7.939488, 112.607796
+LDG,Jalan M.T. Haryono No.157, -7.939905, 112.608040
+LDG,Jalan M.T. Haryono No.150, -7.940213, 112.608235
+LDG,Jalan M.T. Haryono No.140A, -7.940667, 112.608533
+LDG,Jalan M.T. Haryono No.934, -7.941252, 112.608962
+LDG,Jalan M.T. Haryono No.115, -7.942147, 112.609593
+LDG,Jalan M.T. Haryono No.331, -7.943236, 112.610368
+LDG,Jalan M.T. Haryono No.6, -7.943677, 112.610684
+LDG,Jalan M.T. Haryono No.331, -7.944500, 112.611300
+LDG,Jalan M.T. Haryono No.331, -7.945744, 112.612137
+LDG,Jalan M.T. Haryono No.72, -7.946546, 112.612663
+LDG,Jalan M.T. Haryono No.72, -7.947375, 112.613296
+LDG,Jalan M.T. Haryono No.72, -7.948320, 112.613988
+LDG,Jalan M.T. Haryono No.161, -7.949755, 112.615302
+LDG,Jalan Mayjend. Panjaitan No.143, -7.949898, 112.615463
+LDG,Jalan Mayjend. Panjaitan No.143, -7.951142, 112.616858
+LDG,Jalan Mayjend. Panjaitan No.198, -7.952002, 112.617872
+LDG,Jalan Mayjend. Panjaitan No.203, -7.952650, 112.618703
+LDG,Jalan Mayjend. Panjaitan No.135, -7.954388, 112.620318
+LDG,Jalan Mayjend. Panjaitan No.80, -7.955551, 112.621310
+LDG,Jalan Mayjend. Panjaitan No.95, -7.955817, 112.621552
+LDG,Jalan Mayjend. Panjaitan No.77, -7.956656, 112.622308
+LDG,Jalan Mayjend. Panjaitan No.75, -7.957806, 112.623378
+LDG,Jalan Mayjend. Panjaitan No.22 A, -7.958253, 112.623837
+LDG,Jalan Mayjend. Panjaitan No.25, -7.959225, 112.624725
+LDG,Jalan Mayjend. Panjaitan No.25 B, -7.959605, 112.625100
+LDG,Jalan Mayjend. Panjaitan No.7, -7.959918, 112.625406
+LDG,Jalan Mayjend. Panjaitan No.7, -7.960872, 112.625816
+LDG,Jalan Mayjend. Panjaitan No.7, -7.961632, 112.625881
+LDG,Jalan Mayjend. Panjaitan No.7, -7.962144, 112.625905
+LDG,Jalan Brigjend Slamet Riadi No.190, -7.962251, 112.626020
+LDG,Jalan Brigjend Slamet Riadi No.180, -7.962498, 112.626232
+LDG,Jalan Brigjend Slamet Riadi No.160, -7.963013, 112.626666
+LDG,Jalan Brigjend Slamet Riadi No.191, -7.963191, 112.626798
+LDG,Jalan Brigjend Slamet Riadi No.173, -7.963632, 112.627131
+LDG,Jalan Brigjend Slamet Riadi No.173, -7.963919, 112.627348
+LDG,Jalan Brigjend Slamet Riadi No.142, -7.964678, 112.627726
+LDG,Jalan Brigjend Slamet Riadi No.143, -7.964933, 112.627876
+LDG,Jalan Brigjend Slamet Riadi No.135, -7.965396, 112.628144
+LDG,Jalan Brigjend Slamet Riadi No.126, -7.965927, 112.628434
+LDG,Jalan Brigjend Slamet Riadi No.123, -7.966503, 112.628734
+LDG,Jalan Brigjend Slamet Riadi No.108, -7.966756, 112.628818
+LDG,Jalan Brigjend Slamet Riadi No.102, -7.967207, 112.628844
+LDG,Jalan Brigjend Slamet Riadi No.107, -7.967433, 112.628850
+LDG,Jalan Brigjend Slamet Riadi No.107, -7.967911, 112.628911
+LDG,Jalan Brigjend Slamet Riadi No.107, -7.968373, 112.628973
+LDG,Jalan Brigjend Slamet Riadi No.107, -7.968947, 112.628992
+LDG,Jalan Brigjend Slamet Riadi, -7.969433, 112.628874
+LDG,Jalan Brigjend Slamet Riadi, -7.970034, 112.628743
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.970841, 112.628635
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.971455, 112.628576
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.971734, 112.628557
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.972318, 112.628536
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.972674, 112.628544
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.973075, 112.628716
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.973473, 112.629000
+LDG,Jalan Brigjend Slamet Riadi No.16, -7.973867, 112.629343
+LDG,Jalan Jenderal Basuki Rahmat No.96, -7.974308, 112.629815
+LDG,Jalan Jenderal Basuki Rahmat No.64A, -7.976409, 112.629416
+LDG,Jalan Jenderal Basuki Rahmat No.26A, -7.978597, 112.629459
+LDG,Jalan Jenderal Basuki Rahmat No.605, -7.980021, 112.630177
+LDG,Jalan Jenderal Basuki Rahmat No.11 A, -7.981583, 112.630403
+LDG,jalan Merdeka Barat No.9, -7.982507, 112.630102
+LDG,Jalan Kauman No.1, -7.983223, 112.629868
+LDG,Jalan Kauman No.3, -7.983037, 112.629197
+LDG,Jalan Kauman No.15, -7.982910, 112.628682
+LDG,Jalan Kauman No.23, -7.982729, 112.628006
+LDG,Jalan Kauman No.25, -7.982628, 112.627513
+LDG,Jalan Kyai Haji Hasyim Ashari, -7.982527, 112.626917
+LDG,Jalan Kyai Haji Hasyim Ashari, -7.983223, 112.626612
+LDG,Jalan Kyai Haji Hasyim Ashari, -7.983225, 112.626624
+LDG,Jalan Kyai Haji Hasyim Ashari, -7.984028, 112.626248
+LDG,jalan Arif Margono No.31D, -7.984203, 112.625969
+LDG,Jalan Arif Margono No.1, -7.984392, 112.625643
+LDG,Jalan Arif Margono No.158, -7.984660, 112.625252
+LDG,Jalan Arif Margono No.158, -7.984777, 112.625110
+LDG,Jalan Arif Margono No.26 G, -7.984965, 112.624892
+LDG,jalan Yulius Usman No.62, -7.985127, 112.624714
+LDG,Jalan Yulius Usman No.49-53, -7.985250, 112.624914
+LDG,Jalan Yulius Usman No.62, -7.985397, 112.625181
+LDG,Jalan Yulius Usman No.62, -7.985514, 112.625411
+LDG,Jalan Yulius Usman No.56-62, -7.985551, 112.625482
+LDG,Jalan Yulius Usman No.56, -7.985744, 112.625899
+LDG,Jalan Yulius Usman No.50, -7.985777, 112.625996
+LDG,Jalan Yulius Usman No.42, -7.985829, 112.626133
+LDG,Jalan Yulius Usman No.29, -7.985981, 112.626542
+LDG,Jalan Yulius Usman No.30, -7.986053, 112.626758
+LDG,Jalan Yulius Usman No.30, -7.986118, 112.626958
+LDG,Jalan Yulius Usman No.30, -7.986117, 112.626957
+LDG,Jalan Yulius Usman No.30, -7.986151, 112.627073
+LDG,Jalan Yulius Usman No.22, -7.986215, 112.627282
+LDG,Jalan Yulius Usman No.22, -7.986273, 112.627478
+LDG,Jalan Yulius Usman No.3C, -7.986406, 112.627871
+LDG,Jalan Yulius Usman No.3C, -7.986495, 112.628132
+LDG,jalan Syarif Al-Qodri No.18 c, -7.986643, 112.628565
+LDG,Jalan Syarif Al-Qodri No.18 c, -7.986421, 112.628590
+LDG,Jalan Syarif Al-Qodri No.30, -7.986123, 112.628623
+LDG,Jalan Syarif Al-Qodri No.22-24, -7.985747, 112.628662
+LDG,Jalan Syarif Al-Qodri No.22, -7.985488, 112.628692
+LDG,Jalan Syarif Al-Qodri No.6, -7.985199, 112.628724
+LDG,Jalan Syarif Al-Qodri No.2-25, -7.985047, 112.628741
+LDG,Jalan Syarif Al-Qodri No.2A, -7.984858, 112.628761
+LDG,alan Ade Irma Suryani No.1, -7.984690, 112.628779
+LDG,Jalan Ade Irma Suryani No.1, -7.984672, 112.628626
+LDG,Jalan Ade Irma Suryani No.1, -7.984653, 112.628503
+LDG,jalan Ade Irma Suryani No.46, -7.984559, 112.628085
+LDG,Jalan Ade Irma Suryani No.46, -7.984442, 112.627744
+LDG,Jalan Ade Irma Suryani No.21, -7.984359, 112.627383
+LDG,Jalan Ade Irma Suryani No.70a, -7.984274, 112.626988
+LDG,Jalan Ade Irma Suryani No.31, -7.984199, 112.626651
+LDG,Jalan Ade Irma Suryani No.31, -7.984121, 112.626289
+LDG,Jalan Ade Irma Suryani No.31A, -7.984104, 112.626211
+LDG,Jalan Ade Irma Suryani No.26, -7.984732, 112.628966
+LDG,Jalan Ade Irma Suryani No.24, -7.984797, 112.629265
+LDG,Jalan Ade Irma Suryani No.19, -7.984858, 112.629550
+LDG,Jalan Ade Irma Suryani No.19, -7.984969, 112.629980
+LDG,Jalan Ade Irma Suryani No.5, -7.985007, 112.630144
+LDG,Jalan Ade Irma Suryani No.5, -7.985104, 112.630506
+LDG,Jalan Pasar Besar No.12, -7.985214, 112.630936
+LDG,Jalan Pasar Besar No.12-26, -7.985297, 112.631230
+LDG,Jalan Pasar Besar No.28, -7.985419, 112.631662
+LDG,Jalan Pasar Besar No.44-48, -7.985505, 112.631965
+LDG,Jalan Pasar Besar No.45, -7.985622, 112.632383
+LDG,Jalan Pasar Besar No.68, -7.985716, 112.632691
+LDG,Jalan Pasar Besar No.73, -7.985857, 112.633155
+LDG,Jalan Pasar Besar No.75, -7.985930, 112.633329
+LDG,Jalan Sersan Harun No.34, -7.986810, 112.632748
+LDG,Jalan Sersan Harun No.62, -7.987681, 112.632373
+LDG,Jalan Kyai Tamin No.58, -7.988148, 112.632191
+LDG,Jalan Professor Moch Yamin, -7.988648, 112.632233
+LDG,Jalan Professor Moch Yamin, -7.989370, 112.632030
+LDG,Jalan Professor Moch Yamin, -7.991187, 112.631354
+LDG,Jalan Sartono S.h No.2 A, -7.991920, 112.631086
+LDG,Jalan Sartono S.h No.2B, -7.992844, 112.631386
+LDG,Jalan Sartono S.h, -7.993121, 112.632105
+LDG,Jalan Laksamana Martadinata No.86, -7.993556, 112.633564
+LDG,Jalan Kolonel Sugiono No.9, -7.993822, 112.633521
+LDG,Jalan Kolonel Sugiono No.31, -7.994895, 112.633242
+LDG,Jalan Kolonel Sugiono No.81, -7.996563, 112.632845
+LDG,Jalan Kolonel Sugiono No.103, -7.997923, 112.632470
+LDG,Jalan Kolonel Sugiono No.125, -7.999081, 112.632126
+LDG,Jalan Kol. Sugiono, -8.000069, 112.631729
+LDG,Jalan Kolonel Sugiono No.195, -8.001333, 112.631289
+LDG,Jalan Kolonel Sugiono No.90, -8.002045, 112.631010
+LDG,Jalan Kolonel Sugiono No.229, -8.004595, 112.630238
+LDG,Jalan Raya Gadang No.229, -8.005221, 112.630157
+LDG,Jalan Raya Gadang No.277, -8.005933, 112.630029
+LDG,Jalan Raya Gadang No.279, -8.006767, 112.629900
+LDG,Jalan Kolonel Sugiono No.2, -8.007468, 112.629798
+LDG,Jalan Raya Gadang No.321, -8.008254, 112.629691
+LDG,Jalan Raya Gadang No.355, -8.009295, 112.629567
+LDG,Jalan Kolonel Sugiono No.206, -8.009906, 112.629460
+LDG,Jalan Kolonel Sugiono No.27, -8.010883, 112.629326
+LDG,Jalan Kolonel Sugiono No.216, -8.011510, 112.629192
+LDG,Jalan Kolonel Sugiono No.224, -8.011967, 112.629133
+LDG,Jalan Kolonel Sugiono No.228, -8.012690, 112.628999
+LDG,Jalan Kolonel Sugiono No.228, -8.013614, 112.628832
+LDG,jalan Raya Gadang No.234, -8.013911, 112.628790
+LDG,Jalan Raya Gadang No.234, -8.014788, 112.628661
+LDG,Jalan Raya Gadang No.467, -8.015319, 112.628580
+LDG,Jalan Kolonel Sugiono No.250, -8.016275, 112.628468
+LDG,Jalan Kolonel Sugiono No.497, -8.016865, 112.628387
+LDG,Jalan Kolonel Sugiono No.258, -8.017322, 112.628339
+LDG,Jalan Raya Gadang No.260, -8.018065, 112.628237
+LDG,Jalan Raya Gadang No.260, -8.018857, 112.628114
+LDG,jalan Kolonel Sugiono No.7, -8.019983, 112.627969
+LDG,Jalan Kolonel Sugiono No.7, -8.020732, 112.627872
+LDG,Jalan Kolonel Sugiono No.7, -8.021842, 112.627695
+LDG,Terminal Gadang, -8.022341, 112.627856	
+
+
+AT,Terminal Arjosari,-7.933197, 112.658065
+AT,Jalan Raden Intan,-7.932844, 112.656863
+AT,jalan Raden Intan,-7.932238, 112.655394
+AT,jalan Raden Intan,-7.931452, 112.653645
+AT,jalan Raden Intan No.103,-7.930729, 112.651875
+AT,jalan Raden Intan No.1,-7.930304, 112.650780
+AT,jalan Jendral Ahmad Yani Utara No.9c,-7.929412, 112.648870
+AT,jalan Jendral Ahmad Yani Utara No.9c,-7.930485, 112.648291
+AT,jalan Jendral Ahmad Yani Utara No.171,-7.932302, 112.647272
+AT,jalan Raya Malang - Surabaya No.153a,-7.933555, 112.646524
+AT,jalan Raya Malang - Surabaya No.127,-7.934936, 112.645736
+AT,jalan Raya Malang - Surabaya No.142,-7.935882, 112.645216
+AT,jalan Raya Malang - Surabaya No.113,-7.936456, 112.644878
+AT,jalan Raya Malang - Surabaya No.112,-7.937173, 112.644481
+AT,jalan Raya Malang - Surabaya No.81,-7.938262, 112.643880
+AT,jalan A. Yani No.55,-7.939654, 112.643247
+AT,jalan Raya Malang - Surabaya No.66,-7.940727, 112.642737
+AT,jalan A. Yani No.26,-7.941981, 112.642179
+AT,jalan A. Yani No.18C,-7.942996, 112.641723
+AT,jalan A. Yani No.18,-7.944627, 112.641047
+AT,jalan Letjend S. Parman No.108,-7.945774, 112.640667
+AT,jalan Letjend S. Parman No.76,-7.947012, 112.640288
+AT,jalan Letjend S. Parman No.82,-7.948691, 112.639842
+AT,jalan Letjend S. Parman No.72,-7.950104, 112.639558
+AT,jalan Letjend S. Parman No.58-D,-7.951045, 112.639370
+AT,jalan Ciliwung No.2,-7.951884, 112.639193
+AT,jalan Ciliwung No.2,-7.952256, 112.640078
+AT,jalan Ciliwung No.8,-7.952586, 112.640872
+AT,jalan Ciliwung No.14,-7.953027, 112.641725
+AT,jalan Ciliwung No.37,-7.953382, 112.642380
+AT,jalan Ciliwung No.30,-7.953653, 112.643007
+AT,jalan Ciliwung No.44,-7.954371, 112.644402
+AT,jalan Ciliwung No.44,-7.954679, 112.645126
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8,-7.955332, 112.644847
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8,-7.956650, 112.644284
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.143,-7.957611, 112.643839
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.133,-7.958663, 112.643340
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.96,-7.959535, 112.642841
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.25,-7.961033, 112.642020
+AT,jalan Raden Tumenggung Suryo No.50,-7.961904, 112.641484
+AT,jalan Raden Tumenggung Suryo No.50,-7.962595, 112.641087
+AT,jalan Raden Tumenggung Suryo No.50,-7.963471, 112.640561
+AT,jalan Raden Tumenggung Suryo No.26,-7.964120, 112.640170
+AT,jalan Raden Tumenggung Suryo No.26,-7.964768, 112.639762
+AT,jalan Raden Tumenggung Suryo No.5,-7.965735, 112.639242
+AT,jalan Raden Tumenggung Suryo No.4,-7.966935, 112.638635
+AT,jalan Panglima Sudirman,-7.967541, 112.638314
+AT,jalan Panglima Sudirman No.98,-7.968848, 112.638351
+AT,jalan Panglima Sudirman No.1,-7.970399, 112.638432
+AT,jalan Panglima Sudirman No.1,-7.971759, 112.638464
+AT,jalan Panglima Sudirman No.75,-7.972944, 112.638485
+AT,jalan Patimura,-7.973502, 112.638485
+AT,jalan Patimura No.48,-7.973427, 112.636618
+AT,jalan Patimura No.49,-7.973534, 112.635669
+AT,jalan Patimura No.6,-7.973140, 112.634499
+AT,jalan Belakang Rssa No.2,-7.972551, 112.633427
+AT,jalan Belakang Rssa No.22,-7.973305, 112.633024
+AT,jalan Belakang Rssa No.9A,-7.974453, 112.632681
+AT,jalan Belakang Rssa No.9A,-7.975924, 112.632305
+AT,jalan Belakang Rssa No.9A,-7.975882, 112.631748
+AT,jalan Belakang Rssa No.9A,-7.976540, 112.631565
+AT,jalan Kahuripan No.11,-7.976514, 112.630229
+AT,jalan Semeru No.10,-7.976445, 112.628861
+AT,jalan Semeru No.21,-7.976482, 112.627815
+AT,jalan Arjuno No.19,-7.977422, 112.627424
+AT,jalan Arjuno No.17,-7.978325, 112.627032
+AT,jalan Arjuno No.12,-7.979170, 112.626565
+AT,jalan Kawi No.16,-7.979850, 112.626136
+AT,jalan Kawi No.15,-7.979117, 112.624988
+AT,jalan Kawi No.27,-7.978363, 112.624001
+AT,jalan Kawi No.39,-7.977247, 112.622612
+AT,jalan Kawi No.41,-7.976365, 112.621389
+AT,jalan Kawi Atas No.20,-7.975722, 112.620450
+AT,jalan Kawi Atas No.35,-7.975345, 112.619608
+AT,jalan Panderman No.16,-7.974516, 112.619839
+AT,jalan Pandan No.15,-7.974134, 112.618412
+AT,jalan Pulo Sari No.15,-7.973773, 112.617430
+AT,jalan Pulo Sari No.3,-7.973273, 112.617403
+AT,jalan Wilis No.33,-7.972540, 112.617135
+AT,jalan Wilis No.33,-7.972800, 112.616588
+AT,jalan Wilis No.33,-7.973008, 112.616132
+AT,jalan Gading,-7.972444, 112.615177
+AT,jalan Sanggabuana,-7.972715, 112.615011
+AT,jalan Sanggabuana,-7.972535, 112.613825
+AT,jalan Galunggung No.2,-7.972428, 112.613117
+AT,jalan Bukit Barisan,-7.971812, 112.613165
+AT,jalan Bukit Barisan,-7.971605, 112.612436
+AT,jalan Lokon,-7.971366, 112.612049
+AT,jalan Lokon,-7.970505, 112.612253
+AT,jalan Lokon,-7.969708, 112.612323
+AT,jalan Lokon,-7.968433, 112.612489
+AT,jalan Lokon,-7.967557, 112.612693
+AT,jalan Lokon,-7.966999, 112.612843
+AT,jalan Tidar No.6,-7.966856, 112.612302
+AT,jalan Tidar No.16,-7.966675, 112.611717
+AT,jalan Tidar No.24,-7.966361, 112.610515
+AT,jalan Tidar No.32,-7.966239, 112.609780
+AT,jalan Tidar No.32,-7.966099, 112.609260
+AT,jalan Tidar No.32,-7.965942, 112.608409
+AT,jalan Simpang Tidar,-7.965799, 112.607626
+AT,jalan Tidar No.50d,-7.965684, 112.606730
+AT,jalan Tidar No.50d,-7.965634, 112.606221
+AT,jalan Puncak Mandala No.4E,-7.965427, 112.605853
+AT,jalan Puncak Mandala No.7,-7.965273, 112.605320
+AT,jalan Puncak Mandala No.38,-7.965071, 112.604558
+AT,jalan Puncak Mandala No.44A,-7.964842, 112.603681
+AT,jalan Puncak Mandala No.44,-7.964510, 112.603091
+AT,jalan Puncak Yamin No.10,-7.963817, 112.602536
+AT,jalan Puncak Yamin No.19,-7.963317, 112.602106
+AT,jalan Puncak Yamin No.25,-7.962922, 112.601715
+AT,jalan Puncak Yamin No.27,-7.962842, 112.601202
+AT,jalan Esbreg No.6,-7.962605, 112.600669
+AT,jalan Esbreg No.6,-7.962180, 112.600293
+AT,jalan Esbreg No.6,-7.961931, 112.600060
+AT,jalan Esbreg No.6,-7.961264, 112.599515
+AT,jalan Puncak Esberg No.3,-7.960685, 112.599016
+AT,jalan Puncak Trikora,-7.960135, 112.599274
+AT,jalan Himalaya VE 4-5,-7.959710, 112.599577
+AT,jalan Himalaya VE 4-5,-7.959328, 112.599247
+AT,Pangkalan Angkot AT Malang,-7.9597911,112.5989655
+
+LG,Terminal Landungsari,-7.925020, 112.598067
+LG,jalan Tlogomas No.83,-7.924095, 112.598958
+LG,jalan Tlogomas No.55,-7.924797, 112.599912
+LG,jalan Tlogomas No.123,-7.926346, 112.601628
+LG,jalan Tlogomas No.106,-7.927462, 112.602733
+LG,jalan Tlogomas,-7.928620, 112.602969
+LG,jalan Tlogomas No.48 A,-7.930086, 112.602830
+LG,jalan Tlogomas No.44,-7.931500, 112.602626
+LG,jalan Tlogomas,-7.932180, 112.602765
+LG,jalan Tlogomas No.23,-7.933253, 112.603452
+LG,jalan Tlogomas No.6,-7.935086, 112.604675
+LG,jalan M.T. Haryono,-7.936133, 112.605437
+LG,jalan M.T. Haryono No.187,-7.936685, 112.605791
+LG,jalan M.T. Haryono No.187,-7.937578, 112.606429
+LG,jalan M.T. Haryono No.176-177,-7.938699, 112.607175
+LG,jalan M.T. Haryono No.121,-7.939485, 112.607754
+LG,jalan M.T. Haryono No.140A,-7.940452, 112.608387
+LG,jalan M.T. Haryono No.934,-7.941674, 112.609256
+LG,jalan M.T. Haryono No.115,-7.942365, 112.609755
+LG,jalan M.T. Haryono No.XI/368,-7.942907, 112.610163
+LG,jalan Gajayana,-7.943980, 112.609959
+LG,jalan Gajayana,-7.945207, 112.609567
+LG,jalan Gajayana,-7.946148, 112.609213
+LG,jalan Gajayana No.14 C,-7.947146, 112.608822
+LG,jalan Gajayana No.14 C,-7.948406, 112.608773
+LG,jalan Gajayana No.36,-7.950143, 112.608870
+LG,jalan Gajayana No.36,-7.951237, 112.608929
+LG,jalan Raya Sumbersari No.2,-7.952560, 112.609514
+LG,jalan Raya Sumbersari No.89,-7.953644, 112.610318
+LG,jalan Raya Sumbersari No.253a,-7.954606, 112.610828
+LG,jalan Raya Sumbersari No.290,-7.955073, 112.611225
+LG,jalan Raya Sumbersari No.290 b,-7.955711, 112.611852
+LG,jalan Raya Sumbersari No.305,-7.956651, 112.612722
+LG,jalan Bendungan Sutami No.317C,-7.957501, 112.613424
+LG,jalan Bendungan Sutami No.3171,-7.958266, 112.613558
+LG,jalan Bendungan Sutami No.3171,-7.958983, 112.613574
+LG,jalan Bendungan Sutami No.16 A,-7.960136, 112.613644
+LG,jalan Bendungan Sutami No.55,-7.960997, 112.613617
+LG,jalan Bendungan Sutami No.55,-7.961491, 112.613505
+LG,jalan Bendungan Sutami No.7,-7.962729, 112.613419
+LG,jalan Bendungan Sutami No.7,-7.963834, 112.613521
+LG,jalan Terusan Surabaya No.55C,-7.963908, 112.614122
+LG,jalan Terusan Surabaya No.38,-7.964200, 112.614969
+LG,jalan Terusan Surabaya No.23,-7.965013, 112.616364
+LG,jalan Jombang No.7,-7.965614, 112.615999
+LG,jalan Jombang No.20,-7.966124, 112.615699
+LG,jalan Jombang No.23,-7.967043, 112.615495
+LG,jalan Bondowoso No.24,-7.967409, 112.615098
+LG,jalan Bondowoso No.44,-7.967282, 112.614025
+LG,jalan Bondowoso No.44,-7.967271, 112.614020
+LG,jalan Galunggung No.67c,-7.967170, 112.613526
+LG,jalan Galunggung No.53,-7.967978, 112.613462
+LG,jalan Galunggung No.39,-7.969046, 112.613387
+LG,jalan Galunggung No.31,-7.970177, 112.613397
+LG,jalan Galunggung No.23,-7.971399, 112.613306
+LG,jalan Gading,-7.971548, 112.613805
+LG,jalan Gading,-7.971739, 112.614191
+LG,jalan Gading,-7.972398, 112.615141
+LG,jalan Gading,-7.972982, 112.616123
+LG,jalan Wilis No.33,-7.972732, 112.616734
+LG,jalan Wilis No.25,-7.972408, 112.617512
+LG,jalan Wilis No.25,-7.972228, 112.618268
+LG,jalan Wilis No.21,-7.972185, 112.619062
+LG,jalan Wilis No.5,-7.972456, 112.620414
+LG,jalan Panderman No.11,-7.973242, 112.620210
+LG,jalan Panderman No.16,-7.973976, 112.619985
+LG,jalan Panderman No.16,-7.974528, 112.619829
+LG,jalan Kawi Atas No.35,-7.975352, 112.619615
+LG,jalan Kawi Atas No.20,-7.975745, 112.620516
+LG,jalan Kawi No.30,-7.976255, 112.621385
+LG,jalan Kawi No.39,-7.977068, 112.622442
+LG,jalan Kawi No.20,-7.978029, 112.623724
+LG,jalan Kawi No.15,-7.979054, 112.625044
+LG,jalan Kawi No.16,-7.979819, 112.626084
+LG,jalan Kawi No.7,-7.980430, 112.626905
+LG,jalan Arif Rahman Hakim No.22,-7.980903, 112.627586
+LG,jalan Arif Rahman Hakim No.11d,-7.981137, 112.628681
+LG,jalan Arif Rahman Hakim No.6,-7.981429, 112.629780
+LG,jalan Merdeka Utara No.10,-7.981881, 112.631717
+LG,jalan Merdeka Timur No.2F,-7.982778, 112.631529
+LG,jalan Merdeka Selatan No.5,-7.983607, 112.631341
+LG,jalan Sukarjo Wiryo pranoto No.9,-7.985196, 112.630934
+LG,jalan Sutan Syahrir No.20,-7.986306, 112.630698
+LG,jalan Sutan Syahrir No.59,-7.986941, 112.630551
+LG,jalan Kyai Tamin No.10,-7.987419, 112.630422
+LG,jalan Kyai Tamin No.24-58,-7.987770, 112.631307
+LG,jalan Kyai Tamin No.541,-7.988211, 112.632348
+LG,jalan Professor Moch Yamin,-7.989343, 112.632037
+LG,jalan Professor Moch Yamin,-7.990251, 112.631704
+LG,jalan Professor Moch Yamin,-7.991329, 112.631297
+LG,jalan Sartono S.h No.2 A,-7.992116, 112.631061
+LG,jalan Peltu Sujono No.2B,-7.992912, 112.631393
+LG,jalan Peltu Sujono No.5,-7.993773, 112.631012
+LG,jalan Peltu Sujono No.5,-7.994586, 112.630658
+LG,jalan Peltu Sujono No.8,-7.995707, 112.630149
+LG,jalan Peltu Sujono No.12,-7.996711, 112.629704
+LG,jalan Susanto No.14,-7.996482, 112.629087
+LG,jalan Niaga No.3,-7.996153, 112.628287
+LG,jalan Niaga No.3,-7.997168, 112.627842
+LG,jalan Niaga No.3,-7.998071, 112.627445
+LG,jalan Niaga,-7.999292, 112.626903
+LG,jalan Sonokeling No.33,-8.000275, 112.626726
+LG,jalan Sonokeling No.41,-8.001263, 112.627198
+LG,jalan Sonokeling,-8.002713, 112.627418
+LG,jalan Janti Barat No.13,-8.002777, 112.626356
+LG,jalan Janti Barat No.13,-8.002788, 112.625047
+LG,jalan Janti Barat No.9A,-8.002347, 112.623931
+LG,jalan Janti Barat No.9A,-8.001816, 112.622944
+LG,jalan Janti Barat No.58A,-8.001529, 112.621775
+LG,jalan Janti Barat No.22,-8.001242, 112.620799
+LG,jalan Janti Barat No.27,-8.000865, 112.619613
+LG,jalan Janti Barat No.27,-8.000668, 112.618824
+LG,jalan Kolonel Slamet Riyadi No.88,-8.000419, 112.618106
+LG,jalan Kolonel Slamet Riyadi No.88,-8.002257, 112.617757
+LG,jalan Kolonel Slamet Riyadi,-8.003085, 112.617789
+LG,jalan Kolonel Slamet Riyadi,-8.004275, 112.618009
+LG,jalan Sudanco Supriadi No.169,-8.005922, 112.618492
+LG,jalan Sudanco Supriadi No.169,-8.006544, 112.618690
+LG,jalan Sudanco Supriadi No.169,-8.007192, 112.618910
+LG,jalan Sudanco Supriadi No.220,-8.008748, 112.619468
+LG,jalan Sudanco Supriadi No.234,-8.009731, 112.619785
+LG,jalan Sudanco Supriadi No.225,-8.010400, 112.620010
+LG,jalan Sudanco Supriadi No.3,-8.011351, 112.620241
+LG,jalan Sudanco Supriadi No.70,-8.011983, 112.620348
+LG,jalan Sudanco Supriadi No.74,-8.013014, 112.620434
+LG,jalan Sudanco Supriadi,-8.014310, 112.620364
+LG,jalan Kebon Sari No.9A,-8.014878, 112.620294
+LG,jalan Kebon Sari No.4,-8.015696, 112.620203
+LG,jalan Sudanco Supriadi,-8.017449, 112.619989
+LG,jalan Kebon Sari No.2 - A,-8.018209, 112.619801
+LG,jalan Sudanco Supriadi No.8,-8.019335, 112.619404
+LG,jalan Sudanco Supriadi No.178,-8.020158, 112.619055
+LG,jalan Apida Satsui Tubun No.8a,-8.020466, 112.619838
+LG,jalan Apida Satsui Tubun No.17,-8.020992, 112.621217
+LG,jalan Apida Satsui Tubun No.20,-8.021353, 112.622252
+LG,jalan Apida Satsui Tubun No.22,-8.021667, 112.623078
+LG,jalan Apida Satsui Tubun No.32,-8.021996, 112.624253
+LG,jalan Apida Satsui Tubun No.28a,-8.022315, 112.625535
+LG,jalan Apida Satsui Tubun No.38,-8.022612, 112.626732
+LG,jalan Kolonel Sugiono No.7,-8.022703, 112.627617
+LG,jalan Kolonel Sugiono No.7,-8.022315, 112.627637
+LG,Terminal Gadang,-8.022337, 112.627841
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+note
+//https://www.google.co.id/maps/dir/Terminal+Landungsari,+Jalan+Tlogomas,+Kecamatan+Lowokwaru,+Kota+Malang,+Jawa+Timur+65144/Jalan+Tlogomas,+Kota+Malang,+Jawa+Timur/Jalan+M.T.+Haryono,+Kota+Malang,+Jawa+Timur/Jalan+Raya+Sumbersari,+Kota+Malang,+Jawa+Timur+65145/Jalan+Bendungan+Sutami,+Kota+Malang,+Jawa+Timur/Jalan+Surabaya,+Kota+Malang,+Jawa+Timur/Jalan+Bondowoso,+Kota+Malang,+Jawa+Timur+65115/Jalan+Gading,+Klojen,+Kota+Malang,+Jawa+Timur+65115/Jalan+Wilis,+Kota+Malang,+Jawa+Timur+65115/Jalan+Panderman,+Kota+Malang,+Jawa+Timur+65115/@-7.9257479,112.5978417,17z/data=!4m62!4m61!1m5!1m1!1s0x2e78821f083b0ba3:0xf77241da5a0a3cf5!2m2!1d112.5980754!2d-7.9250451!1m5!1m1!1s0x2e78821970fa3723:0xde37a491c0c1f55!2m2!1d112.6018483!2d-7.9265376!1m5!1m1!1s0x2e788272dbfb9859:0x9c82dd93beb3adaf!2m2!1d112.6106817!2d-7.9436713!1m5!1m1!1s0x2e78827a8a16dd25:0xd472d9aa4e264083!2m2!1d112.6106033!2d-7.9543095!1m5!1m1!1s0x2e78827dfab8d05f:0x96377d0f238c17f9!2m2!1d112.6136589!2d-7.9603317!1m5!1m1!1s0x2e788281eb9e08f7:0x6b3528831d82ff29!2m2!1d112.6177698!2d-7.965843!1m5!1m1!1s0x2e788283c352ff1f:0xbe1b2f4923e9c7f8!2m2!1d112.6159297!2d-7.9676572!1m5!1m1!1s0x2e7882835947896d:0x2b9adaaffa4e15f5!2m2!1d112.6148339!2d-7.9721089!1m5!1m1!1s0x2e78829d2bfb3e89:0xbd14ed5bdbd09c58!2m2!1d112.6183598!2d-7.9722065!1m5!1m1!1s0x2dd628278a2a0aab:0xd8979bd139e544ae!2m2!1d112.6200172!2d-7.973878!3e0?hl=en//
+//https://www.google.co.id/maps/dir/Jalan+Panderman,+Kota+Malang,+Jawa+Timur+65115/Jalan+Arif+Rahman+Hakim,+Klojen,+Kota+Malang,+Jawa+Timur+65119/Jalan+Merdeka+Utara,+Klojen,+Kota+Malang,+Jawa+Timur+65119/Jalan+Merdeka+Selatan,+Kota+Malang,+Jawa+Timur+65119/Jalan+Sukarjo+Wiryo+pranoto,+Klojen,+Kota+Malang,+Jawa+Timur+65119/Jalan+Sutan+Syahrir,+Kota+Malang,+Jawa+Timur/Jalan+Kyai+Tamin,+Kota+Malang,+Jawa+Timur/Jalan+Sartono+S.h,+Kota+Malang,+Jawa+Timur/Jalan+Peltu+Sujono,+Kota+Malang,+Jawa+Timur+65148/Jalan+Susanto,+Kota+Malang,+Jawa+Timur+65148/@-7.9854792,112.6174055,15z/data=!3m1!4b1!4m62!4m61!1m5!1m1!1s0x2dd628278a2a0aab:0xd8979bd139e544ae!2m2!1d112.6198997!2d-7.974281!1m5!1m1!1s0x2dd6282288f47f3f:0xc49f3468793b491!2m2!1d112.6289631!2d-7.9812387!1m5!1m1!1s0x2dd628187b7c685b:0xc1e3827139d82c30!2m2!1d112.6309553!2d-7.9817082!1m5!1m1!1s0x2dd6281839fd36a3:0x2f44d4dfe2dddc72!2m2!1d112.6307136!2d-7.9834272!1m5!1m1!1s0x2dd62819d20f67f1:0x11f891f6aa6c9771!2m2!1d112.6312014!2d-7.984162!1m5!1m1!1s0x2dd62819e9d54939:0x533a745c240db8f6!2m2!1d112.6307233!2d-7.9862154!1m5!1m1!1s0x2dd6281a0a73ad03:0x3e1b112a35fdddb5!2m2!1d112.6326925!2d-7.9883414!1m5!1m1!1s0x2dd6280f9323d009:0x5369ca4c7603eb89!2m2!1d112.6322198!2d-7.9931529!1m5!1m1!1s0x2dd6280571aafacb:0x421330677c6ea23e!2m2!1d112.6299796!2d-7.9961003!1m5!1m1!1s0x2dd628042d9c52f1:0x4525d87bdee03b7f!2m2!1d112.6282945!2d-7.9961475!3e0?hl=en//
+//https://www.google.co.id/maps/dir/Jalan+Susanto,+Kota+Malang,+Jawa+Timur+65148/Jalan+Niaga,+Sukun,+Kota+Malang,+Jawa+Timur/Jalan+Sonokeling,+Kota+Malang,+Jawa+Timur/Jalan+Janti+Barat,+Kota+Malang,+Jawa+Timur/Jalan+Sudanco+Supriadi,+Kota+Malang,+Jawa+Timur/Jalan+Apida+Satsui+Tubun,+Kota+Malang,+Jawa+Timur+65149/Terminal+Gadang,+Jl.+Kolonel+Sugiono,+Malang+Selatan,+Sukun,+Jawa+Timur/@-8.0094321,112.6055094,14z/data=!3m1!4b1!4m44!4m43!1m5!1m1!1s0x2dd628042d9c52f1:0x4525d87bdee03b7f!2m2!1d112.6282945!2d-7.9961475!1m5!1m1!1s0x2dd62806a283376b:0xa81646e2c145c12!2m2!1d112.6274448!2d-7.9980856!1m5!1m1!1s0x2dd628072d6e020f:0x19ccdc5ffc75081e!2m2!1d112.6274544!2d-8.0020284!1m5!1m1!1s0x2dd6280061cdeca9:0x58ad03bab17fbdea!2m2!1d112.6228447!2d-8.0017965!1m5!1m1!1s0x2dd6281c2d4fe751:0xa5ca01b05b85a87f!2m2!1d112.6183659!2d-8.0055721!1m5!1m1!1s0x2dd627f3516c53ed:0x2de560c43b646c47!2m2!1d112.6232348!2d-8.021713!1m5!1m1!1s0x2dd628089f7cf037:0x8b955fc525d4da9!2m2!1d112.6278572!2d-8.022342!3e0?hl=en//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
