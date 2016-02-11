@@ -106,7 +106,7 @@ JPK,Jalan Ikan Gurami No.3a,-7.928174, 112.628166
 JPK,Jalan Ikan Kakap No.90,-7.928599, 112.629131
 JPK,Jalan Ikan Kakap No.2A,-7.928418, 112.630392
 JPK,Jalan Ikan Kakap No.124,-7.928477, 112.631690
-Tunjung Sekar, Tunjungsekar,-7.928833, 112.632774
+JPK,Tunjung Sekar, Tunjungsekar,-7.928833, 112.632774
 JPK,Jalan Ikan Piranha No.55,-7.929454, 112.633128
 JPK,Jalan Ikan Piranha No.70 B,-7.929784, 112.634131
 JPK,Jalan Ikan Piranha No.302,-7.930485, 112.635536

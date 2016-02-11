@@ -180,10 +180,10 @@ GL,Jalan Veteran Malang,-7.957992, 112.618871
 GL,Jalan Veteran Malang,-7.957705, 112.618350
 GL,Jalan Veteran Malang,-7.957397, 112.617801
 GL,Jalan Veteran Malang,-7.957038, 112.617202
-Universitas Brawijaya Malang, GL,Jalan Veteran Malang No.16,-7.956632, 112.616540
-Universitas Brawijaya Malang, GL,Jalan Veteran Malang No.16,-7.956313, 112.615971
-Universitas Brawijaya Malang, GL,Jalan Veteran Malang No.16,-7.956013, 112.615416
-Universitas Brawijaya Malang, GL,Jalan Veteran Malang No.16,-7.956194, 112.614477
+GL,Jalan Veteran Malang No.16,-7.956632, 112.616540
+GL,Jalan Veteran Malang No.16,-7.956313, 112.615971
+GL,Jalan Veteran Malang No.16,-7.956013, 112.615416
+GL,Jalan Veteran Malang No.16,-7.956194, 112.614477
 GL,Jalan Veteran Malang,-7.956406, 112.613477
 GL,Jalan Bendungan Sutami No.317C,-7.956714, 112.612809
 GL,Jalan Raya Sumbersari No.303,-7.956281, 112.612407
